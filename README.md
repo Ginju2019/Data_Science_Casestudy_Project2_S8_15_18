@@ -1,0 +1,2 @@
+# Data_Science_Casestudy_Project2_S8_15_18
+Casestudy_Project2_S8_15_18 to be submitted along with Statistics assignment
